@@ -36,6 +36,9 @@ ul  {
   
     
 }
+img{
+    border-radius: 8px;
+}
 p{
     font-size: 1.1rem;
 }
